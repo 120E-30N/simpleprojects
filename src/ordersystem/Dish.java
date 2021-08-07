@@ -15,6 +15,6 @@ public class Dish {
     }
 
     public void showInfo() {
-        System.out.println("number: " + number + ", name: " + name + ", price: " + price);
+        System.out.printf("%s   \t %.2f\n", name, price);
     }
 }
