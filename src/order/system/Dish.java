@@ -1,4 +1,4 @@
-package ordersystem;
+package order.system;
 
 /**
  * 菜品：

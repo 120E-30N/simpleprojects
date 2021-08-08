@@ -1,4 +1,4 @@
-package ordersystem;
+package order.system;
 
 import java.util.ArrayList;
 import java.util.List;
